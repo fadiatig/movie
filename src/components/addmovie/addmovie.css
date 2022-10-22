@@ -1,0 +1,28 @@
+.addbtn {
+  width: 243px;
+  border-radius: 40px;
+  height: 349px;
+  border: none;
+  background-color: gray;
+  font-size: -webkit-xxx-large;
+  color: wheat;
+}
+h2 {
+  font-family: fantasy;
+  color: darksalmon;
+}
+.addinput {
+  width: 100%;
+  margin-bottom: 10px;
+  border-radius: 12px;
+  border: 1px solid;
+  padding: 6px;
+}
+.addbutton {
+  border: none;
+  background-color: darksalmon;
+  border-radius: inherit;
+  padding: 6px;
+  width: 64px;
+  font-family: fantasy;
+}
